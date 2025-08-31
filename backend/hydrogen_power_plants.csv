@@ -1,0 +1,19 @@
+id,Plant_Name,State,Latitude,Longitude,Solar_Irradiance(kWh/m^2/day),Wind_Speed(m/s),Temp(C),Average_RH(%),Solar_Capacity(MW),Wind_Capacity(MW),Grid_Access(km),Distance_From_Water_Src(km),Land_Cost(rs/acre),Regulatory_Ease(1-5),Demand_Center_Dist(km),Storage_Availability(Yes/No),Electrolyzer_Efficiency(%),Hydrogen_Production_kg/day,Water_Requirement_L/day,Feasibility_Score(0-1)
+1,Adani New Industries - Kutch Green Hydrogen Pilot Plant,Gujarat,23.7286,69.6669,5.03,4.32,24.4,47,398,50,6.3,5.48,363132,5,162,Yes,67.4,3968.8,35719.2,0.446
+2,Adani - Mundra Green Hydrogen Hub,Gujarat,23.8486,69.715,6.05,6.51,32.4,38,456,30,8,8.68,600905,3,21,Yes,73.9,12091.3,108821.7,0.353
+3,Reliance - Dhirubhai Ambani Green Energy Giga Complex (Jamnagar/Kandla),Gujarat,22.4707,70.0577,5.26,4.5,32.2,49,282,153,1,6.32,503168,4,91,No,69.7,7682.6,69143.4,0.409
+4,NTPC Green Energy Ltd - Pudimadaka Green Hydrogen Hub (Visakhapatnam),Andhra Pradesh,17.578,83.3725,5.01,4.07,30.8,42,190,302,4.4,5.02,150950,4,188,No,67.8,7913.6,71222.4,0.354
+5,IndianOil (IOCL) - Panipat Green Hydrogen Plant,Haryana,29.3909,76.9635,5.66,6.68,22.6,39,532,30,12,0.49,632212,4,49,Yes,65,170950.4,1538553.6,0.428
+6,Greenko / AM Green Ammonia - Kakinada Green Ammonia / H2,Andhra Pradesh,16.9369,82.238,6,6.54,33.5,56,152,338,11.4,3.62,276558,3,228,No,67.2,162676.6,1464089.4,0.234
+7,ACME Group - Thoothukudi Green Hydrogen & Ammonia Project,Tamil Nadu,8.7642,78.1348,5.37,7.3,26.9,61,485,397,11.7,3.15,568188,5,104,Yes,68.5,34459.9,310139.1,0.477
+8,JSW Energy - Vijayanagar (Vijayanagar/Bellary) Green H2 Plant,Karnataka,15.137,76.5219,6.29,6.42,35,41,536,137,2.5,9.34,524154,5,229,No,66.6,12938.9,116450.1,0.393
+9,GAIL - Vijaipur Green Hydrogen Plant (pilot / blend trials),Madhya Pradesh,25.455,78.3386,5.62,4.36,25.8,43,302,384,14.5,2.93,255501,4,179,No,68.7,7126.3,64136.7,0.344
+10,BPCL - Kochi Airport Green Hydrogen Plant / HRS,Kerala,10.152,76.4019,5.42,7.02,31.7,54,562,79,2.5,0.79,190379,4,275,No,62.2,9585.7,86271.3,0.297
+11,HPCL - Visakhapatnam Green H2 Supply to Visakh Refinery,Andhra Pradesh,17.6868,83.2185,5.71,4.71,25.3,61,451,280,3.3,5.9,682611,5,79,Yes,69.3,5739.6,51656.4,0.487
+12,L&T Energy GreenTech - Kandla / Kandla-Kutch Green H2 project,Gujarat,23.037,70.1739,6.02,5.59,28.9,38,465,156,2.6,5.19,245077,3,204,Yes,71.9,5557.8,50020.2,0.267
+13,Tata Steel - Kalinganagar hydrogen / hydrogen infra activities,Odisha,21.1999,86.1219,4.91,4.91,32.5,41,324,270,9.8,5.34,656388,3,104,No,66.8,10033.3,90299.7,0.289
+14,ACME - Mangaluru Green Hydrogen / Ammonia project,Karnataka,12.9141,74.856,5.79,7.32,34.4,54,150,332,13.8,6.49,346204,5,58,Yes,73.8,4165.1,37485.9,0.586
+15,Avaada Group - Green Hydrogen & Ammonia (Madhya Pradesh project),Madhya Pradesh,23.2599,77.4126,4.93,6.43,22.2,51,43,1,14.4,3.48,393808,4,106,Yes,66.8,4059.1,36531.9,0.39
+16,NTPC / REL - Kochi Green H2 hub / pilot initiatives (Kerala),Kerala,9.9312,76.2673,6.15,7.17,28,54,476,249,12.1,3,404347,4,100,No,66.5,21183.7,190653.3,0.406
+17,Adani & Maire Tecnimont JV - Gujarat Green H2 project (announced),Gujarat,22.3,70.8,5.09,6.76,30,36,213,93,6.6,6.85,652789,3,261,No,72.5,99764.1,897876.9,0.238
+18,ReNew / ReNew E Fuels - Gujarat/Haryana Green H2 project (announced),Gujarat,23.2,70.4,5.26,6.05,31.8,65,514,98,11.4,7.04,621398,4,86,Yes,69.9,19742.8,177685.2,0.416

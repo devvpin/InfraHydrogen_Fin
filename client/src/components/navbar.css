@@ -1,0 +1,58 @@
+/* Navbar theme overrides for green background */
+:root {
+  --energy-green:  #16a34a; /* default green (emerald-600) */
+  --energy-accent: #34d399; /* teal/green accent */
+}
+
+/* Strong selector to ensure this style wins over Tailwind utilities when needed */
+nav.navbar-green,
+.navbar-green {
+  background: linear-gradient(90deg, rgb(var(--energy-green)), rgb(var(--energy-accent))) !important;
+  color: #ffffff;
+  -webkit-backdrop-filter: blur(6px);
+  backdrop-filter: blur(6px);
+}
+
+/* Navbar text and link styles when placed on the green background */
+.navbar-green a,
+.navbar-green button,
+.navbar-green .text-sm,
+.navbar-green .text-lg {
+  color: #ffffff !important;
+}
+
+.navbar-green .text-muted-foreground {
+  color: rgba(255,255,255,0.92) !important;
+}
+
+/* Ensure outlined/ghost buttons remain visible on green background */
+.navbar-green .btn-ghost,
+.navbar-green .button-ghost,
+.navbar-green .Button--ghost,
+.navbar-green button.variant-ghost {
+  background: transparent !important;
+  color: #ffffff !important;
+  border-color: rgba(255,255,255,0.15) !important;
+}
+
+/* Utility: when an element inside the navbar uses `text-white`, keep it white for contrast */
+.navbar-green .text-white {
+  color: #fff !important;
+}
+
+.navbar-green .text-white-bg {
+  background: rgba(255,255,255,0.06);
+  padding: 0.15rem 0.4rem;
+  border-radius: 6px;
+}
+
+/* Mobile menu items contrast */
+.navbar-green .md\:hidden a,
+.navbar-green .md\:hidden button {
+  color: #fff !important;
+}
+
+/* Specific fixes for lucide icons inside the navbar */
+.navbar-green svg {
+  color: #ffffff !important;
+}
